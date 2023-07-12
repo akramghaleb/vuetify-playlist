@@ -1,6 +1,6 @@
 <template>
-  <div>
-    <h1>Akram</h1>
+  <div class="home pa-6">
+    <h1>Todo Page</h1>
   </div>
 </template>
 
