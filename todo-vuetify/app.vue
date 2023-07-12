@@ -1,5 +1,5 @@
 <template>
   <div>
-    Akram Vuetify
+    <NuxtWelcome />
   </div>
 </template>
