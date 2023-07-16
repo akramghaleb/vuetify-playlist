@@ -6,7 +6,7 @@
                 lines="two"
                 prepend-avatar="https://cdn.vuetifyjs.com/docs/images/logos/vuetify-logo-v3-slim-dark.svg"
                 title="Vuetify Todo"
-                subtitle="Best to do ever"
+                subtitle="Best to-do ever"
             ></v-list-item>
             </template>
 
